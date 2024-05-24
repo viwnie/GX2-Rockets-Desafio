@@ -1,11 +1,10 @@
 # Desafio GX2 Rockets 🚀
 <p align="center">
-  <img src="https://www.gx2.com.br/wp-content/uploads/2021/05/logo-gx2-branco.png" alt="Imagem Logo GX2">
-</p>
-<p align="center">
   <img src="https://i.ibb.co/C1trZ4F/desafio-liferay.png" alt="Desafio Liferay">
 </p>
-
+<p align="center">
+  <img src="https://www.gx2.com.br/wp-content/uploads/2021/05/logo-gx2-branco.png" alt="Imagem Logo GX2">
+</p>
 ## Descrição
 Este repositório foi criado para armazenar e organizar os arquivos do desafio dos rockets [LVL I].
 
