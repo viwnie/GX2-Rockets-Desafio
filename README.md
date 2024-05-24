@@ -1,4 +1,4 @@
-# Desafio GX2 Rockets [I] 🚀
+# Desafio GX2 Rockets [ I ] 🚀
 <p align="center">
   <img src="https://www.gx2.com.br/wp-content/uploads/2021/05/logo-gx2-branco.png" alt="Imagem Logo GX2">
 </p>
