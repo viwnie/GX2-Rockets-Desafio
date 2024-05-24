@@ -1,9 +1,8 @@
-# Desafio GX2 🚀
 <p align="center">
   <img src="https://www.gx2.com.br/wp-content/uploads/2021/05/logo-gx2-branco.png" alt="Imagem Logo GX2">
 </p>
 <p align="center">
-  Bem-vindo ao meu repositório 👨‍💻
+  Desafio GX2 🚀
 </p>
 <p align="center">
   <img src="https://i.ibb.co/C1trZ4F/desafio-liferay.png" alt="Desafio Liferay">
