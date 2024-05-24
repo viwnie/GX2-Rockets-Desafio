@@ -1,4 +1,4 @@
-# Desafio GX2 Rockets [ I ] 🚀
+# Desafio GX2 Rockets 🚀
 <p align="center">
   <img src="https://www.gx2.com.br/wp-content/uploads/2021/05/logo-gx2-branco.png" alt="Imagem Logo GX2">
 </p>
@@ -36,10 +36,8 @@ Este repositório foi criado para armazenar e organizar os arquivos do desafio d
   - **workflow**
     - `fluxoReembolso.ftl` - Importando este arquivo será criado um fluxo de reembolso no seu site.
 
-## Isto é tudo... 🌟
+## Obrigado pelo seu tempo. 🌟
 
 Espero que este repositório atenda às expectativas e demonstre meu comprometimento e dedicação ao desafio proposto por vocês 💚.
 
-Agradeço pela oportunidade e aguardo ansiosamente o feedback!
-
-🚀📚👨‍🎓
+Aguardo ansiosamente o feedback! 🚀📚👨‍🎓
