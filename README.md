@@ -19,9 +19,14 @@ Este repositório foi criado para armazenar e organizar os documentos/fragmentos
           - Formulário Reembolso.xml [Arquivo em xml caso prefira apenas copiar o formulario]
   - *design*
       - *fragmento*
-- home
-      - Código fonte
-      - Documentação
+          - home [Este fragemnto é o banner da pagina.]
+      - *modelo-de-widget*
+          - Modelo-blog.ftl [Este modelo exibe os blogs de acordo com o tema]
+          - Modelo-categorias.ftl [Este modelo exibe as categorias de acordo com o tema]
+      - *modelo-pagina-exibição*
+          - modelo-noticia [Este modelo de pagina exibe as noticias de acordo com o tema]
+              - display-page-template.json 
+              - page-definition.json
   - *src*
       - Descrição da tarefa
       - Código fonte
