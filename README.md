@@ -8,7 +8,7 @@
 
 ## Descrição
 
-Este repositório foi criado para armazenar e organizar os documentos/fragmentos/imagens... do desafio realizado.
+Este repositório foi criado para armazenar e organizar os arquivos do desafio dos rockets [LVL I]
 
 ## Estrutura do Repositório 📂
 
@@ -27,18 +27,15 @@ Este repositório foi criado para armazenar e organizar os documentos/fragmentos
           - modelo-noticia [Este modelo de pagina exibe as noticias de acordo com o tema]
               - display-page-template.json 
               - page-definition.json
+  - *dist*
+      - gx2-desafio-rocket-theme.war [Importando este arquivo ao liferay o thema sera aplicado automaticamente]
   - *src*
-      - Descrição da tarefa
-      - Código fonte
-      - Documentação
-  - *src*
-      - Descrição da tarefa
-      - Código fonte
-      - Documentação
-  - *src*
-      - Descrição da tarefa
-      - Código fonte
-      - Documentação
+      - *WEB-INF*
+      - *css* [Aqui esta todos os arquivos utilizado para estilizar as paginas]
+      - *images* [Imagens utilizadas na criação do site]
+      - *templates* [Estrutura do liferay como Header,Footer,Body,Login...]
+  - *workflow*
+      - fluxoReembolso.ftl [Importando este arquivo sera criado um fluxo de reembolso no seu site]
   
 ## Isto é tudo... 🌟
 
