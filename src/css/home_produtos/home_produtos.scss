@@ -1,0 +1,8 @@
+.home_pesquisa{
+    .card.d-flex.flex-column.product-card{
+        border-radius: 40px;
+    }
+    .card-body > div:nth-child(2) {
+        display: none;
+    }
+}

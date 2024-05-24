@@ -1,0 +1,67 @@
+#portlet_com_liferay_dynamic_data_mapping_form_web_portlet_DDMFormPortlet_INSTANCE_cydr {
+    .portlet-body {
+        --angle: 0deg;
+        border: 5px solid;
+        border-image: conic-gradient(from var(--angle), #7953cd 20%,
+                #00affa 30%,
+                #0190cd 70%,
+                #764ada 80%) 1;
+
+        animation: 10s rotate linear infinite;
+
+
+        @keyframes rotate {
+            to {
+                --angle: 360deg;
+            }
+        }
+
+        @property --angle {
+            syntax: '<angle>';
+            initial-value: 0deg;
+            inherits: false;
+        }
+
+        .lfr-ddm-form-page-title {
+            padding-top: 30px;
+            text-align: center;
+            font-weight: 600;
+            width: 100%;
+        }
+
+        .text-secondary {
+            display: none;
+        }
+
+        .lfr-ddm__default-page-header-line {
+            display: none;
+        }
+
+        .lfr-ddm__default-page-header-title {
+            display: none;
+        }
+        
+        .lfr-ddm-form-container .lfr-ddm-form-pagination-controls button {
+            background: #332941;
+            border: none;
+        }
+
+    }
+
+
+    .portlet-content {
+        max-width: 700px !important;
+        margin: auto !important;
+        margin-top: 25px !important;
+    }
+
+    @media (max-width: 505px) {
+        .lfr-ddm-form-page-title {
+            font-size: 20px;
+        }
+
+        .input-group>.input-group-item.input-group-prepend {
+            display: none;
+        }
+    }
+}
