@@ -5,9 +5,8 @@
 <p align="center">
   Bem-vindo ao meu repositório 👨‍💻
 </p>
-
+<img src="https://i.ibb.co/C1trZ4F/desafio-liferay.png">
 ## Descrição
-<img src="https://i.ibb.co/mBCTzQq/desafio-liferay.png">
 Este repositório foi criado para armazenar e organizar os arquivos do desafio dos rockets [LVL I]
 
 ## Estrutura do Repositório 📂
